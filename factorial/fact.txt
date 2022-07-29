@@ -1,0 +1,7 @@
+Mathematical formula of factorial
+
+
+
+Algorithm of Factprial(Non-Recursive)
+
+Algorithm of Factprial(Recursive)
