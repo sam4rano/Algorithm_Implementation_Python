@@ -5,4 +5,4 @@ def factn(n):
     return fact
 n = int(input('enter a number? '))
 num = factn(n)
-print(num)
+print(num)   #factorial operation
